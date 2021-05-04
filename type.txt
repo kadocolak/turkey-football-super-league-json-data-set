@@ -1,0 +1,15 @@
+CLUB: 2020-21 season club full name
+LOGO: Link to the website with the club logo
+ID: Primary key
+PHONE: Club corporate phone number
+ADRESS: Location address of the club
+CITY: Location is only city
+REGION: Region where the club is registered in the system
+STADIUM: Club's stadium full name in 2020-21 season
+LAT: Location latitude data of the stadium
+LNG: Location longitude data of the stadium
+CAPACITY: Stadium full capacity(person)
+DISABLED: Are there any disabled seats in the stadium? (1:Yes | 0:No)
+SIZE_AREA: Stadium's land size
+FLOOR: Stadium ground type
+LIGHTING: Is there lighting in the stadium? (1:Yes | 0:No)
