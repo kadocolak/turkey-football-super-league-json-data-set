@@ -1,4 +1,3 @@
-
 CLUB: 2020-21 season club full name
 LOGO: Link to the website with the club logo
 ID: Primary key
